@@ -10,4 +10,4 @@
       Obviously the put method is simpler, but you run the risk of altering data that we are not interested in modifying.
 
 ### What are the tradeoffs between PUT and PATCH?
-----> Ventajas: Capacidad de definir que datos nos interesa poder modificar, y gestion en la rapidez al cambiar el mismo dato en diferentes objetos.
+----> Advantages: Ability to define what data we are interested in modifying, and speed management when changing the same data in different objects.
