@@ -28,4 +28,8 @@ public class Patient {
         this.dateOfBirth = dateOfBirth;
         this.admittedBy = admittedBy;
     }
+
+
+    public void setPatient(Integer id) {
+    }
 }

@@ -10,4 +10,5 @@ public interface IDoctorController {
     List<Doctor> getDoctors();
     List<Doctor> getDoctorsByStatus(Optional<Status> status);
     List<Doctor> getDoctorsByDepartment(Optional<String> department);
+    public Doctor getDoctor(Integer id);
 }
